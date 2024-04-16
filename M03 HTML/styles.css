@@ -1,0 +1,62 @@
+body {
+    font-family:cursive;
+    background-color:aqua;
+    margin: 20px;
+    
+  
+ 
+  }
+  .header1{
+   margin:30px;
+    text-align: center;
+    }
+    .header2{
+margin: 30px;
+text-align: center;
+    }
+    img
+    {
+      width: 600px;
+      height: 300px;
+      border-color: black;
+      border-radius: 30%;
+    
+    }
+
+  .image{
+   display: flex;
+   justify-content: center;
+
+}
+
+
+.postres
+{
+  opacity:0.7;
+  border-radius: 80%;
+}
+
+  #list
+{
+  display: flex;
+  justify-content: left;
+  align-items: left;
+
+  }
+
+  ul{
+background-color: burlywood;
+
+}
+
+#deserts{
+display: flex;
+justify-content: right;
+
+}
+
+p{
+  background-color: beige;
+  width: auto;
+  height: auto;
+}
